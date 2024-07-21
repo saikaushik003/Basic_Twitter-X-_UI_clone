@@ -1,2 +1,2 @@
-# Basic_Twitte_UI_clone
-a minimalist Twitter UI clone
+# Basic_Twitter(X)_UI_clone
+My first project, a minimalist Twitter UI clone, showcases a sleek, responsive design inspired by modern social media aesthetics. Featuring a dynamic dark mode toggle, this project demonstrates my early skills in HTML, CSS, and JavaScript, focusing on creating intuitive user interfaces. It serves as a foundation for my web development journey, emphasizing clean code and user experience.
