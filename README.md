@@ -11,7 +11,8 @@ The below image showcases the Basic Twitter Clone UI interface in its light mode
 
 ## Comparison
 ### Real twitter Interface
-![image](https://github.com/user-attachments/assets/03779f1d-29e4-4f3a-a397-542947c60f57)
+![image](https://github.com/user-attachments/assets/efa25f47-65e3-49cc-964b-2a5cfd63fb08)
+
 
 ### Our Clone
 ![image](https://github.com/user-attachments/assets/1a89aa99-dc9c-4dfd-a90b-be898c2b16bf)
